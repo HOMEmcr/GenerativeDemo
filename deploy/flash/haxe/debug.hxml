@@ -1,0 +1,15 @@
+-main ApplicationMain 
+-lib openfl
+-cp src
+-cp /Users/danhett/Documents/nme/openfl/1,0,3/
+-D tools=1
+-D openfl_ver=1.0.3
+-D openfl
+-D web
+-swf-version 11
+-swf deploy/flash/bin/HomeVisuals.swf
+-swf-header 880:480:30:FFFFFF
+-cp deploy/flash/haxe
+#--remap nme:flash
+--no-inline
+-debug
