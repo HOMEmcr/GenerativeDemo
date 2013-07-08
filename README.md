@@ -1,5 +1,5 @@
-HOMEmcr - Generative Visuals demonstration project
-==================================================
+HOMEmcr - Generative Visuals demo
+=================================
 
 A simple demonstration project that shows how we created our example letterforms. Built with Haxe/OpenFL. 
 
